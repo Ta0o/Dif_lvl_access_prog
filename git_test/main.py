@@ -1,1 +1,1 @@
-'''info'''
+'''main prog'''
