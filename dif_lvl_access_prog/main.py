@@ -1,5 +1,5 @@
 '''main prog'''
-import commands_q1
+import methods
 while True:
     print(txt_m[0])
     login=(str(input()))
